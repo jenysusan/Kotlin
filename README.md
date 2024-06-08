@@ -1,2 +1,2 @@
 # Kotlin
-Getting started with Kotlin
+My journey of learning Kotlin
